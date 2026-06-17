@@ -1,0 +1,8 @@
+﻿namespace OrderService.DTOs;
+
+public class OrderDto
+{
+    public Guid UserId { get; set; }
+    public string ProductName { get; set; }
+    public int Quantity { get; set; }
+}

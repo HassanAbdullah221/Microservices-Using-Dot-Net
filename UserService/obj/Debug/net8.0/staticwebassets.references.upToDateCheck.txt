@@ -1,0 +1,11 @@
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hassa\source\repos\OrderService\obj\Debug\net8.0\staticwebassets.build.json
